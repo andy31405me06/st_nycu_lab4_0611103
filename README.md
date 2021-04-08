@@ -1,0 +1,1 @@
+[![CI/CD with Github Action](https://github.com/andy31405me06/st_nycu_lab4_0611103/actions/workflows/action.yml/badge.svg)](https://github.com/andy31405me06/st_nycu_lab4_0611103/actions/workflows/action.yml)
